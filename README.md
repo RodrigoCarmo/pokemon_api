@@ -19,7 +19,7 @@
 
 ### 💻🖱Testando rota
 -Para executar o servidor rode ```yarn dev:server```<br>
--Após a execução do servidor, execute uma requisição do tipo **POST** como teste na rota ```http://localhost:4000/graphql``` utilizando o Insomnia ou outro de sua preferência, enviando os seguintes dados em JSON:<br>
+-Após a execução do servidor, execute uma requisição do tipo **POST** como teste na rota ```http://localhost:4000/graphql``` utilizando o Insomnia ou outro de sua preferência, enviando os seguintes dados em GraphQL Query:<br>
 
 #### Listagem de Pokémon
 -Basta realizar a busca com a query desejada, abaixo uma query de exemplo conforme o desafio proposto:
